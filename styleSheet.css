@@ -91,6 +91,9 @@ h2 {
   div {
     padding: 2.5rem;
   }
+  button{
+    width: 15rem;
+  }
   .seconddiv {
     border-bottom-left-radius: 0rem;
   }
