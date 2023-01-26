@@ -4,14 +4,14 @@ body {
   font-family: "Karla", sans-serif;
   font-weight: 400;
   min-height: 100vh;
-  display: grid;
-  place-items: center;
 }
 div {
   padding: 1.5rem;
   height: 13rem;
+  
 }
 header {
+  margin-top: 5rem;
   background-color: white;
   color: hsl(218, 22%, 67%);
   border-radius: 0.3rem 0.3rem 0rem 0rem;
